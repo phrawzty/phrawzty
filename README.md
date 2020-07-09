@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour 👋
+
+Hi there! I'm Dan (`phrawzty` on all the things). I work at <a href="https://github.com/datadog/">Datadog</a> on the Community team. I'm also a Global Core member of the <a href="https://devopsdays.org/">devopsdays</a> conference series. My preferred pronouns are `he / him`. Ask me about time zones and/or whisk(e)y! 😀
 
 <!--
 **phrawzty/phrawzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
