@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Hi there! I'm Dan (`phrawzty` on all the things). I work at <a href="https://github.com/datadog/">Datadog</a> on the Community team. I'm also a Global Core member of the <a href="https://devopsdays.org/">devopsdays</a> conference series. My pronouns are `he / him`. Ask me about time zones and/or whisk(e)y! 😀
+Hi there! I'm Dan (_phrawzty_ on all the things). I have previously done computer stuff at [Datadog](https://github.com/DataDog/), [Mozilla](https://github.com/mozilla), and [Ubisoft](https://github.com/ubisoft). I'm also a Global Core member of the <a href="https://devopsdays.org/">devopsdays</a> conference series. My pronouns are `he / him`. Ask me about time zones and/or whisk(e)y! 😀
 
 <!--
 **phrawzty/phrawzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
