@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Hi there! I'm Dan (_phrawzty_ on all the things). I have previously done computer stuff at [Scaleway](https://github.com/scaleway), [Datadog](https://github.com/DataDog/), [Mozilla](https://github.com/mozilla), and [Ubisoft](https://github.com/ubisoft). I'm also a Global Core member of the <a href="https://devopsdays.org/">devopsdays</a> conference series. My pronouns are `he / him`. Ask me about time zones or French wine! 😀
+Hi there! I'm Dan (_phrawzty_ on all the things). I currently work at [Cerbos](https://cerbos.dev). I have previously done computer stuff at [Scaleway](https://github.com/scaleway), [Datadog](https://github.com/DataDog/), [Mozilla](https://github.com/mozilla), and [Ubisoft](https://github.com/ubisoft). I'm also a Global Core member of the <a href="https://devopsdays.org/">devopsdays</a> conference series. My pronouns are `he / him`. Ask me about time zones or French wine! 😀
 
 <!--
 **phrawzty/phrawzty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
